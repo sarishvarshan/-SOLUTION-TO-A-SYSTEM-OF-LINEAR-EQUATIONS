@@ -17,7 +17,7 @@ End the program
 ```
 Program to find the solution for the given linear equations.
 Developed by: Sarish Varshan V
-RegisterNumber:212223230196
+RegisterNumber: 212223230196
 import numpy as np
 A=np.array([[1,-3],[3,1]])
 B=np.array([0,10])
@@ -27,7 +27,8 @@ print(le)
 ```
 
 ## Output:
-![image](https://github.com/sarishvarshan/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/152167665/a824ca4f-57bb-4216-8b5a-25da9603b4ef)
+
+![image](https://github.com/sarishvarshan/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/152167665/3299693c-b915-4a50-aaf7-75af1f44b082)
 
 
 
