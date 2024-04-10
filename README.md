@@ -16,18 +16,19 @@ End the program
 ## Program:
 ```
 Program to find the solution for the given linear equations.
-Developed by: Prashanth.K
-RegisterNumber:212223230152
+Developed by: Sarish Varshan V
+RegisterNumber:212223230196
 import numpy as np
-A=np.array(([5,-3,-10],[2,2,-3],[-3,-1,5]))
-B=np.array([-9,4,-1])
-C=np.linalg.solve(A,B)
-print(C)
+A=np.array([[1,-3],[3,1]])
+B=np.array([0,10])
+le=np.linalg.solve(A,B)
+print(le)
+
 ```
 
 ## Output:
-![Screenshot 2024-04-06 141525](https://github.com/PRASHANTHRATHI/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/145743120/1abf6c4d-705b-44ac-a8c3-a2bf95ec8977)
-![Screenshot 2024-04-06 141533](https://github.com/PRASHANTHRATHI/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/145743120/4c3176a4-c02c-4a4a-aee2-4b931c2fe966)
+![image](https://github.com/sarishvarshan/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/152167665/a824ca4f-57bb-4216-8b5a-25da9603b4ef)
+
 
 
 ## Result: 
